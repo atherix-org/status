@@ -6,13 +6,5 @@
     "method": "GET",
     "acceptedStatusCodes": ["200-299"],
     "followRedirect": true
-  },
-  {
-    "id": "atherixBlog",
-    "name": "Atherix Blog",
-    "url": "https://blog.atherix.org/",
-    "method": "GET",
-    "acceptedStatusCodes": ["200-299"],
-    "followRedirect": true
   }
 ]
