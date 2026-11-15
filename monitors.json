@@ -6,5 +6,13 @@
     "method": "GET",
     "acceptedStatusCodes": ["200-299"],
     "followRedirect": true
+  },
+  {
+    "id": "atherix-api",
+    "name": "Atherix API",
+    "url": "https://atherix.org/api/",
+    "method": "GET",
+    "acceptedStatusCodes": ["200-299"],
+    "followRedirect": true
   }
 ]
