@@ -1,0 +1,10 @@
+[
+  {
+    "id": "atherix",
+    "name": "Atherix",
+    "url": "https://atherix.org/",
+    "method": "GET",
+    "acceptedStatusCodes": ["200-299"],
+    "followRedirect": true
+  }
+]
